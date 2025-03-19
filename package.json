@@ -4,7 +4,7 @@
   "description": "Test Node App",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node testnode.js"
   },
   "repository": {
     "type": "git",
