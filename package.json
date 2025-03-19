@@ -1,0 +1,28 @@
+{
+  "name": "testnode",
+  "version": "1.0.0",
+  "description": "Test Node App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mantseakai/testnode.git"
+  },
+  "keywords": [
+    "test",
+    "app"
+  ],
+  "author": "Mantse Akai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mantseakai/testnode/issues"
+  },
+  "homepage": "https://github.com/mantseakai/testnode#readme",
+  "dependencies": {
+    "axios": "^1.8.4",
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  }
+}
